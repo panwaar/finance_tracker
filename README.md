@@ -71,8 +71,11 @@ A full-stack **MERN** web application that allows users to manage income, expens
 ## Create .env in /backend
  
 PORT=8000
+
 MONGO_URL=your-mongodb-connection-string
+
 JWT_SECRET=your-secret-key
+
 CLIENT_URL=https://finance-tracker-panwar.vercel.app
 
 
