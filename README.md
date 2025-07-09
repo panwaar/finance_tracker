@@ -60,10 +60,53 @@ A full-stack **MERN** web application that allows users to manage income, expens
 
 ---
 
-## 🧾 Installation Instructions
+## 🧪 Installation Instructions
 
-### 🧪 Clone the Repository
+### 🔧 Backend Setup (`/backend`)
+
+  - cd backend
+  - npm install
+
+
+## Create .env in /backend
+ 
+PORT=8000
+MONGO_URL=your-mongodb-connection-string
+JWT_SECRET=your-secret-key
+CLIENT_URL=https://finance-tracker-panwar.vercel.app
+
+
+
+▶️ Start Server
+ 
+- npm run dev
+
+
+Frontend Setup (/frontend)
+- cd frontend
+- npm install
+
+
+Create .env in /frontend 
+- VITE_API_URL=https://finance-tracker-1-y6hs.onrender.com/api/v1
+
+
+🖼️ Screenshots
+
+![image](https://github.com/user-attachments/assets/2248f8ab-50b8-4006-b0de-8b48ae924084)
+
+![image](https://github.com/user-attachments/assets/73d82761-e549-4444-8324-17f31b5dc4ef)
+
+![image](https://github.com/user-attachments/assets/ffe1eafd-6e5c-4a2f-acf6-6ebfaa3ec75c)
+
+![image](https://github.com/user-attachments/assets/3d508dfd-b594-4a1d-ae96-2666784c1c3b)
+
+![image](https://github.com/user-attachments/assets/88dbcd3c-c2e9-4a03-9591-575a30628d6f)
+
+
+
+
+
+
 
 ```bash
-git clone https://github.com/yourusername/finance-tracker.git
-cd finance-tracker
