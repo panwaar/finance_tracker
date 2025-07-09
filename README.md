@@ -101,12 +101,6 @@ Create .env in /frontend
 
 ![image](https://github.com/user-attachments/assets/3d508dfd-b594-4a1d-ae96-2666784c1c3b)
 
-![image](https://github.com/user-attachments/assets/88dbcd3c-c2e9-4a03-9591-575a30628d6f)
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/88dbcd3c-c2e9-4a03-9591-575a30628d6f) 
 
 ```bash
